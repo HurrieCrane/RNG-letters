@@ -17,18 +17,11 @@ namespace Fibonacci_letters
 
             SVG SVGBuilder = new SVG();
 
-            //const double GoldenRatio = 1.61803398874989484820458683436;
             Random r = new Random();
 
             for (int i = 0; i < 26; i++)
             {
-                int[,] points = new int[5, 2] /*{
-                    {0, 0},
-                    {1, 1 },
-                    {1, 1 },
-                    {2, 2},
-                    {9 ,2 },
-                    }*/;
+                int[,] points = new int[5, 2];
 
 
                 for (int row = 0; row < points.GetLength(0); row++)
