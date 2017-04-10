@@ -56,3 +56,11 @@ See also the list of [contributors](https://github.com/HurrieCrane/RNG-Letters/c
 
 ## License
 TODO: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s [licensing guide](http://choosealicense.com/)!
+
+
+## Acknowledgments
+* [README Template](https://github.com/tumblenet/repository-template) by [tumble1999](github.com/tumble1999] '--youcan remove this if you want'
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
