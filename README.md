@@ -43,7 +43,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for (setting guidelines for repository contributors)[https://help.github.com/articles/setting-guidelines-for-repository-contributors/].
 
-## Versionin
+## Versioning
 Say what versioning method you use.
 
 example:
@@ -59,8 +59,7 @@ TODO: Finally, include a section for the license of your project. For more infor
 
 
 ## Acknowledgments
-* [README Template](https://github.com/tumblenet/repository-template) by [tumble1999](github.com/tumble1999] '--youcan remove this if you want'
-
+* [README Template](https://github.com/tumblenet/repository-template) by [tumble1999](github.com/tumble1999) `--you can remove this if you want`
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
