@@ -1,7 +1,5 @@
 # RNG-letters
-TODO:A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
-
-Here is is accompanying code to the images I've produced (https://www.artstation.com/artwork/JznKz) for generating randomly shaped letters into SVGs.
+TODO:A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.This is a project I did to generate random letter forms randomly and then put them in an SVG to be saved. Here is is accompanying code to the images I've produced (https://www.artstation.com/artwork/JznKz) for generating randomly shaped letters into SVGs.
 
 # Table of Contents
 TODO: Optionally, include a table of contents in order to allow other people to quickly naviagte especially long or detailed READMEs.
